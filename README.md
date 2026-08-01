@@ -94,12 +94,6 @@ This dashboard helps business stakeholders monitor sales performance, identify r
 
 ---
 
-## Author
-
-**Vishnu Kadari**
-
-Aspiring Data Analyst
-
 Skills:
 - Excel
 - SQL
