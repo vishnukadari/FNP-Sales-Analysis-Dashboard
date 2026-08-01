@@ -93,10 +93,3 @@ The objective of this project is to analyze sales performance and answer key bus
 This dashboard helps business stakeholders monitor sales performance, identify revenue opportunities, understand customer purchasing behavior, and make data-driven business decisions.
 
 ---
-
-Skills:
-- Excel
-- SQL
-- Power BI
-- Python
-- Data Analysis
